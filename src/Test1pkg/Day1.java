@@ -17,6 +17,12 @@ public class Day1 {
 			{
 			System.out.println("I am the no 1 from last");
 			}
+		}
+			@Test
+			public void CarLoans() {
+				{
+				System.out.println("I am the no 2 from last");
+				}
 
 
 
