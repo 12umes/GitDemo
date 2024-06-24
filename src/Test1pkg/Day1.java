@@ -22,6 +22,7 @@ public class Day1 {
 			public void CarLoans() {
 				{
 				System.out.println("I am the no 2 from last");
+				
 				}
 
 
